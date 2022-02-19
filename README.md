@@ -1,24 +1,19 @@
-# README
+# Ice Cream Meter
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Summary
+<b>Ice Cream Meter</b> is a RoR based app, intended to manage the ice cream meters in an organization. We can create 
+multiple teams and an ice cream meter for each team.
 
-Things you may want to cover:
+### What is an ice cream meter?
+Ice cream meter is a fun way of incentivizing people who attend daily stand up meetings. People who do not attend the 
+stand-up m number of times or join late n number of time is tasked to treat the entire team with :icecream: or maybe
+:beer: or whatever the team decides.
 
-* Ruby version
+### Prerequisites
+This projects uses the following:
 
-* System dependencies
+* Ruby (version 3.1.0)
 
-* Configuration
+* Rails (version 7.0.2)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Postgres (version 13)
