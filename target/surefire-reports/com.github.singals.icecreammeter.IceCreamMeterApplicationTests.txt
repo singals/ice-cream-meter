@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.github.singals.icecreammeter.IceCreamMeterApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.617 s - in com.github.singals.icecreammeter.IceCreamMeterApplicationTests
